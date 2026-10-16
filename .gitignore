@@ -1,0 +1,9 @@
+node_modules/
+.output/
+.vercel/
+.tanstack/
+.nitro/
+dist/
+*.log
+.env
+.env.*
